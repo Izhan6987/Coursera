@@ -10,7 +10,7 @@ body{
 	border:0;
 	border-bottom: 2px solid black;
 }
-#header-nav h1{
+.navbar-brand h1{
 	margin:0;
 	padding-top: 10px;
 	padding-left: 30px;
